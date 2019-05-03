@@ -19,7 +19,6 @@ function App() {
             <a
               className="projects"
               href="https://learn.lambdaschool.com/syllabus/cs-fsw"
-              target="_blank"
             >
               Lambda School
             </a>
