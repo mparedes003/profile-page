@@ -15,7 +15,8 @@ function App() {
           <h1>Michelle Paredes</h1>
           <p>Santa Monica, California</p>
           <p>
-            Full Stack Web & Computer Science Student at &nbsp;
+            Full Stack Web <br /> & <br /> Computer Science Student <br /> at
+            &nbsp;
             <a
               className="projects"
               href="https://learn.lambdaschool.com/syllabus/cs-fsw"
