@@ -132,6 +132,15 @@ html {
   font-size: 62.5%;
 }
 
+h1 {
+  font-size: 2.5rem;
+}
+
+h1,
+h3 {
+  padding-bottom: 2rem;
+}
+
 /* .App {
   text-align: center;
 } */
@@ -150,15 +159,17 @@ html {
 }
 
 .photo {
-  width: 200px;
-  height: 200px;
+  width: 180px;
+  height: 180px;
   border-radius: 50%;
   border: 6px solid white;
+  margin-bottom: 3.5rem;
 }
 
 .sidebar {
-  width: 500px;
+  /* width: 500px; */
   text-align: center;
+  padding: 5rem;
 }
 
 .projects {
