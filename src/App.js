@@ -24,15 +24,15 @@ function App() {
               Lambda School
             </a>
           </p>
-          <a className="projects" href="https://github.com/mparedes003">
-            GitHub
-          </a>
-          <br />
+
           <a
             className="projects"
             href="https://www.linkedin.com/in/michellegparedes/"
           >
-            Linkedin
+            <i class="fab fa-linkedin" />
+          </a>
+          <a className="projects" href="https://github.com/mparedes003">
+            <i class="fab fa-github" />
           </a>
         </div>
         <div className="profile-body">
