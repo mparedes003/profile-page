@@ -172,6 +172,28 @@ h3 {
   padding: 5rem;
 }
 
+.sidebar p {
+  font-size: 1.75rem;
+  padding-bottom: 1.5rem;
+  color: blueviolet;
+}
+
+.sidebar a {
+  color: blueviolet;
+  text-decoration: none;
+}
+
+.sidebar a:hover {
+  color: white;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.sidebar .fab {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
 .projects {
   color: #61dafb;
 }
