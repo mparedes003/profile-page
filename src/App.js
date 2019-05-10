@@ -12,7 +12,7 @@ function App() {
             className="photo"
             alt="Michelle Paredes Photo"
           />
-          <h3>Michelle Paredes</h3>
+          <h1>Michelle Paredes</h1>
           <p>Santa Monica, California</p>
           <p>
             Full Stack Web & Computer Science Student at &nbsp;
