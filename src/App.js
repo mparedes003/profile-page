@@ -36,7 +36,10 @@ function App() {
           </a>
         </div>
         <div className="profile-body">
-          <h3>About</h3>
+          <h3>
+            <i class="fas fa-info-circle" />
+            About
+          </h3>
           <p>
             Hi! I'm Michelle. I'm a Full-Stack Web and Software Developer with a
             passion for learning new technologies, making new applications,
