@@ -45,7 +45,10 @@ function App() {
             passion for learning new technologies, making new applications,
             debugging, problem solving and living in the terminal.
           </p>
-          <h3>Technical Skills</h3>
+          <h3>
+            <i class="far fa-dot-circle" />
+            Technical Skills
+          </h3>
           <p>
             Web Development --> HTML, CSS, React, Django, REST APIs, Node,
             Express, Javascript, Python, C
@@ -53,7 +56,10 @@ function App() {
 
           <p>Download Resume</p>
 
-          <h3>Recent Projects</h3>
+          <h3>
+            <i class="fas fa-history" />
+            Recent Projects
+          </h3>
           <a
             className="projects"
             href="https://cineview.netlify.com/"
@@ -73,7 +79,9 @@ function App() {
             Lambda Notes
           </a>
 
-          <h3>Contact</h3>
+          <h3>
+            <i class="far fa-envelope" />Contact
+          </h3>
           <a className="projects" href="mailto:michelle.g.paredes@gmail.com">
             <p>michelle.g.paredes@gmail.com</p>
           </a>
