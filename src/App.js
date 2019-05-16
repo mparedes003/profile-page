@@ -60,27 +60,29 @@ function App() {
             <i class="fas fa-history" />
             Recent Projects
           </h3>
-          <a
-            className="projects"
-            href="https://cineview.netlify.com/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            CineView
-          </a>
-          <br />
-
-          <a
-            className="projects"
-            href="https://your-notes.netlify.com/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Lambda Notes
-          </a>
-
+          <div className="project">
+            <a
+              className="projects"
+              href="https://cineview.netlify.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              CineView
+            </a>
+          </div>
+          <div className="project">
+            <a
+              className="projects"
+              href="https://your-notes.netlify.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Lambda Notes
+            </a>
+          </div>
           <h3>
-            <i class="far fa-envelope" />Contact
+            <i class="far fa-envelope" />
+            Contact
           </h3>
           <a className="projects" href="mailto:michelle.g.paredes@gmail.com">
             <p>michelle.g.paredes@gmail.com</p>
