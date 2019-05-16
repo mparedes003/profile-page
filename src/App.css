@@ -197,6 +197,10 @@ h3 {
   color: blueviolet;
 }
 
+.profile-body .fas {
+  padding-right: 1rem;
+}
+
 .projects {
   color: #61dafb;
 }
