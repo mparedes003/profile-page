@@ -50,7 +50,10 @@ function App() {
             Technical Skills
           </h3>
           <p>
-            Web Development --> HTML, CSS, React, Django, REST APIs, Node,
+            <i class="fas fa-code" />
+            Web Development --> <i class="fab fa-html5" />
+            HTML, <i class="fab fa-css3-alt" />
+            CSS, <i class="fab fa-react" />React, Django, REST APIs, Node,
             Express, Javascript, Python, C
           </p>
 
