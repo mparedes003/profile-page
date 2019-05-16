@@ -209,3 +209,7 @@ h3 {
   color: blueviolet;
   text-decoration: none;
 }
+
+.profile-body .project {
+  padding-bottom: 1.5rem;
+}
