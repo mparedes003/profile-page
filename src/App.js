@@ -53,7 +53,8 @@ function App() {
             <i class="fas fa-code" />
             Web Development --> <i class="fab fa-html5" />
             HTML, <i class="fab fa-css3-alt" />
-            CSS, <i class="fab fa-react" />React, Django, REST APIs, Node,
+            CSS, <i class="fab fa-react" />
+            React, Django, REST APIs, <i class="fab fa-node-js" /> Node,
             Express, Javascript, Python, C
           </p>
 
