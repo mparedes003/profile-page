@@ -55,7 +55,8 @@ function App() {
             HTML, <i class="fab fa-css3-alt" />
             CSS, <i class="fab fa-react" />
             React, Django, REST APIs, <i class="fab fa-node-js" /> Node,
-            Express, <i class="fab fa-js-square" /> Javascript, Python, C
+            Express, <i class="fab fa-js-square" /> Javascript,{" "}
+            <i class="fab fa-python" /> Python, C
           </p>
 
           <p>Download Resume</p>
