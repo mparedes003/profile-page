@@ -170,7 +170,7 @@ h3 {
 }
 
 .sidebar p {
-  font-size: 1.75rem;
+  font-size: 2rem;
   padding-bottom: 1.5rem;
   color: mediumpurple;
 }
@@ -196,7 +196,7 @@ h3 {
 }
 
 .profile-body p {
-  font-size: 1.75rem;
+  font-size: 2rem;
   padding-bottom: 1.5rem;
   color: mediumpurple;
 }
@@ -216,6 +216,7 @@ h3 {
 }
 
 .profile-body .projects {
+  font-size: 2rem;
   color: mediumpurple;
   text-decoration: none;
 }
