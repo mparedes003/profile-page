@@ -191,6 +191,10 @@ h3 {
   padding-right: 1rem;
 }
 
+.profile-body .intro {
+  color: white;
+}
+
 .profile-body p {
   font-size: 1.75rem;
   padding-bottom: 1.5rem;
