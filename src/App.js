@@ -15,7 +15,7 @@ function App() {
           <h1>Michelle Paredes</h1>
           <p>Santa Monica, California</p>
           <p>
-            Full Stack Web <br /> & <br /> Computer Science Student <br /> at
+            Full Stack Web <br /> & <br /> Computer Science Alumna <br /> of
             &nbsp;
             <a
               className="projects"
@@ -90,7 +90,7 @@ function App() {
             Contact
           </h3>
           <a className="projects" href="mailto:michelle.g.paredes@gmail.com">
-            <p>michelle.g.paredes@gmail.com</p>
+            <p className="email">michelle.g.paredes@gmail.com</p>
           </a>
         </div>
       </div>
