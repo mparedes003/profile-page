@@ -15,7 +15,7 @@ function App() {
           <h1>Michelle Paredes</h1>
           <p>Santa Monica, California</p>
           <p>
-            Full Stack Web <br /> & <br /> Computer Science Student <br /> at
+            Full Stack Web <br /> & <br /> Computer Science Alumna <br /> of
             &nbsp;
             <a
               className="projects"
@@ -41,9 +41,10 @@ function App() {
             About
           </h3>
           <p>
-            Hi! I'm Michelle. I'm a Full-Stack Web and Software Developer with a
-            passion for learning new technologies, making new applications,
-            debugging, problem solving and living in the terminal.
+            <span className="intro">Hi! I'm Michelle.</span> I'm a Full-Stack
+            Web and Software Developer with a passion for learning new
+            technologies, making new applications, debugging, problem solving
+            and living in the terminal.
           </p>
           <h3>
             <i class="far fa-dot-circle" />
@@ -51,7 +52,8 @@ function App() {
           </h3>
           <p>
             <i class="fas fa-code" />
-            Web Development --> <i class="fab fa-html5" />
+            Web Development <i class="fas fa-long-arrow-alt-right" />
+            <i class="fab fa-html5" />
             HTML, <i class="fab fa-css3-alt" />
             CSS, <i class="fab fa-react" />
             React, Django, REST APIs, <i class="fab fa-node-js" /> Node,
@@ -68,21 +70,40 @@ function App() {
           <div className="project">
             <a
               className="projects"
+              href="https://github.com/Lambda-School-Labs/labs10-movie-reviews"
+            >
+              <i class="fab fa-github" /> CineView
+            </a>{" "}
+            <a
+              className="projects"
               href="https://cineview.netlify.com/"
               target="_blank"
               rel="noopener noreferrer"
             >
-              CineView
+              <i class="fab fa-chrome" /> Webpage
             </a>
           </div>
           <div className="project">
+            <a
+              className="projects"
+              href="https://github.com/mparedes003/front-end-project-week"
+            >
+              <i class="fab fa-github" /> Lambda Notes Front End
+            </a>{" "}
             <a
               className="projects"
               href="https://your-notes.netlify.com/"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Lambda Notes
+              <i class="fab fa-chrome" /> Webpage
+            </a>{" "}
+            <br />
+            <a
+              className="projects"
+              href="https://github.com/mparedes003/back-end-project-week"
+            >
+              <i class="fab fa-github" /> Lambda Notes Back End
             </a>
           </div>
           <h3>
@@ -90,7 +111,7 @@ function App() {
             Contact
           </h3>
           <a className="projects" href="mailto:michelle.g.paredes@gmail.com">
-            <p>michelle.g.paredes@gmail.com</p>
+            <p className="email">michelle.g.paredes@gmail.com</p>
           </a>
         </div>
       </div>
