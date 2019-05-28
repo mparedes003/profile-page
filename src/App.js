@@ -41,9 +41,10 @@ function App() {
             About
           </h3>
           <p>
-            Hi! I'm Michelle. I'm a Full-Stack Web and Software Developer with a
-            passion for learning new technologies, making new applications,
-            debugging, problem solving and living in the terminal.
+            <span className="intro">Hi! I'm Michelle.</span> I'm a Full-Stack
+            Web and Software Developer with a passion for learning new
+            technologies, making new applications, debugging, problem solving
+            and living in the terminal.
           </p>
           <h3>
             <i class="far fa-dot-circle" />
