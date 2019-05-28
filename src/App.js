@@ -69,11 +69,17 @@ function App() {
           <div className="project">
             <a
               className="projects"
+              href="https://github.com/Lambda-School-Labs/labs10-movie-reviews"
+            >
+              <i class="fab fa-github" /> CineView
+            </a>{" "}
+            <a
+              className="projects"
               href="https://cineview.netlify.com/"
               target="_blank"
               rel="noopener noreferrer"
             >
-              CineView
+              <i class="fab fa-chrome" /> Webpage
             </a>
           </div>
           <div className="project">
