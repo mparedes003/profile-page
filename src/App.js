@@ -52,7 +52,8 @@ function App() {
           </h3>
           <p>
             <i class="fas fa-code" />
-            Web Development --> <i class="fab fa-html5" />
+            Web Development <i class="fas fa-long-arrow-alt-right" />
+            <i class="fab fa-html5" />
             HTML, <i class="fab fa-css3-alt" />
             CSS, <i class="fab fa-react" />
             React, Django, REST APIs, <i class="fab fa-node-js" /> Node,
@@ -85,11 +86,24 @@ function App() {
           <div className="project">
             <a
               className="projects"
+              href="https://github.com/mparedes003/front-end-project-week"
+            >
+              <i class="fab fa-github" /> Lambda Notes Front End
+            </a>{" "}
+            <a
+              className="projects"
               href="https://your-notes.netlify.com/"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Lambda Notes
+              <i class="fab fa-chrome" /> Webpage
+            </a>{" "}
+            <br />
+            <a
+              className="projects"
+              href="https://github.com/mparedes003/back-end-project-week"
+            >
+              <i class="fab fa-github" /> Lambda Notes Back End
             </a>
           </div>
           <h3>
