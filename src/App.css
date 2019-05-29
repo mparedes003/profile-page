@@ -155,6 +155,13 @@ h3 {
   font-family: Roboto;
 }
 
+@media (max-width: 800px) {
+  .App-body {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
 .photo {
   width: 180px;
   height: 180px;
