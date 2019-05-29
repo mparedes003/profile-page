@@ -180,6 +180,7 @@ h3 {
   font-size: 2rem;
   padding-bottom: 1.5rem;
   color: mediumpurple;
+  line-height: normal;
 }
 
 .sidebar a {
@@ -206,6 +207,7 @@ h3 {
   font-size: 2rem;
   padding-bottom: 1.5rem;
   color: mediumpurple;
+  line-height: normal;
 }
 
 .profile-body .email:hover {

@@ -61,8 +61,6 @@ function App() {
             <i class="fab fa-python" /> Python, C
           </p>
 
-          <p>Download Resume</p>
-
           <h3>
             <i class="fas fa-history" />
             Recent Projects
