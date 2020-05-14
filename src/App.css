@@ -120,7 +120,7 @@ blockquote:before,
 blockquote:after,
 q:before,
 q:after {
-  content: "";
+  content: '';
   content: none;
 }
 table {
@@ -238,4 +238,16 @@ h3 {
 
 .profile-body .project {
   padding-bottom: 1.5rem;
+}
+
+.profile-body .favicon-ack {
+  margin-top: 10px;
+  font-size: 1rem;
+  color: darkgray;
+}
+
+.profile-body .favicon-ack a {
+  text-decoration: none;
+  /*color: #28b351;*/
+  color: gray;
 }
