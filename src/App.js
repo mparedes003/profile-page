@@ -13,7 +13,7 @@ function App() {
             alt='Michelle Paredes Photo'
           />
           <h1>Michelle Paredes</h1>
-          <p>Santa Monica, California</p>
+          <p>California</p>
           <p>
             Full Stack Web <br /> & <br /> Computer Science Alumna <br /> of
             &nbsp;
